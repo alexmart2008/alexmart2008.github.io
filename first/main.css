@@ -1,0 +1,70 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+article {
+	width: 79vw;
+	margin: 0 auto;
+}
+h1 {
+	font-size: 50px;
+}
+#first {
+	height:  100vh;
+	background-image: url(img/bg.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+button {
+	background-color: orange;
+	width: 150px;
+	height: 50px;
+	border-radius: 50px;
+	border: none;
+	
+    box-shadow: 0px 18px 28px 7px rgba(0, 0, 0, 0.35);
+  
+}
+.phone-numbers {
+	width: 30vw;
+}
+.flex-item {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
+}
+main, a {
+	color: #FFF;
+	text-decoration: none;
+
+}
+header {
+	padding: 25px 0;
+	background-color: rgba(0, 0, 0, 0.2)
+}
+
+	
+}
+
+.number {
+	font-size: 20px;
+}
+.number-descript {
+	font-size: 14px;
+}
+.color-one {
+	color: #c8c8c8
+
+}
+.color-two {
+	color: #75c648
+}
+.site-content {
+	height: 74vh;
+	-ms-align-items: center;
+	align-items: center;
+
+}
